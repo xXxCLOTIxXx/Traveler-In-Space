@@ -1,0 +1,6 @@
+[gd_scene format=2]
+
+[node name="restart" type="Button"]
+margin_right = 113.0
+margin_bottom = 32.0
+text = "Restart"
