@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=2]
+
+[sub_resource type="GradientTexture" id=1]
+
+[node name="Sprite" type="Sprite"]
+position = Vector2( 517, 303.5 )
+scale = Vector2( 0.519531, 639 )
+texture = SubResource( 1 )
